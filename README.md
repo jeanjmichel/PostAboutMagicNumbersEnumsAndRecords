@@ -1,3 +1,5 @@
+# Welcome to another one of my study repositories! This time the theme is Enums and Records.
+
 Hi, I am Jean, an IT professional who loves studying about programming and teaching others the art of coding.
 
 ![Jean J. Michel]( https://s3.amazonaws.com/x-publico/acesso-livre/jean.png)
