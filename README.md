@@ -4,7 +4,7 @@ Hi, I am Jean, an IT professional who loves studying about programming and teach
 
 This is a basic study where I am using the C# Record type as an alternative to using Enums. This provides greater capacity and robustness at the Model layer.
 
-I wrote about this study (in Portuguese) on my blog, you can access it here: :link: [jeanjmichel](https://jeanjmichel.medium.com/magic-numbers-constantes-enumerations-enums-e-algo-melhor-que-isso-em-c-0e1c7af78695).
+I wrote about this study (in Portuguese) on my blog, you can access it here: :link: [jeanjmichel | Magic Numbers, constantes, enumerations (enums) e algo melhor que isso em C#](https://jeanjmichel.medium.com/magic-numbers-constantes-enumerations-enums-e-algo-melhor-que-isso-em-c-0e1c7af78695).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-gren.svg)](https://opensource.org/licenses/MIT) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jeanjmichel/PostAboutMagicNumbersEnumsAndRecords.svg?style=flat)]()
