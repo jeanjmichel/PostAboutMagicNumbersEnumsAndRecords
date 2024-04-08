@@ -30,6 +30,7 @@ public class Program
             Console.WriteLine(ex.ToString());
         }
 
-        int DDDRecife = (int)DDDCapitais.RECIFE;
+        int DDDRecife = (int)DDDCapitaisEnum.RECIFE;
+        Console.WriteLine(DDDRecife);
     }
 }

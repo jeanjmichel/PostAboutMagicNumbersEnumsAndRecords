@@ -1,7 +1,7 @@
 ﻿namespace MagicNumbers;
 
 [Obsolete("O uso dessa Enum ficou obsoleto com a criação do Record DDDCapitaisRecord.", false)]
-public enum DDDCapitais
+public enum DDDCapitaisEnum
 {
     SAO_PAULO = 11,
     RIO_DE_JANEIRO = 21,
